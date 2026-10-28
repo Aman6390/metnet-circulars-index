@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-22T21:11:38Z",
+  "last_updated": "2026-10-28T19:39:39Z",
   "enable_ai_index": true,
   "circulars": {
     "75f5c13e32e4d588": {
@@ -161,6 +161,25 @@
       "action_required": false,
       "source": "rules_fallback",
       "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "e15093d0fd319849": {
+      "id": "e15093d0fd319849",
+      "title": "Promotion and Posting Order for Meteorologist Grade A Officers",
+      "url": "https://metnet.imd.gov.in/phps/docs/Promotion_MetA_2026_test.pdf",
+      "date": "29/10/2026",
+      "section": "Admin-I",
+      "is_vip": true,
+      "vip_reasons": [
+        "promotion",
+        "posting"
+      ],
+      "target_cadre": "Met A",
+      "category": "Transfer",
+      "summary_en": "Official Transfer order: Promotion and Posting Order for Meteorologist Grade A Officers",
+      "summary_hi": "विभागीय सूचना (Transfer): Promotion and Posting Order for Meteorologist Grade A Officers",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-28T19:39:39Z"
     }
   }
 }
