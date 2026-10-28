@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "last_updated": "2026-10-22T21:11:38Z",
+  "enable_ai_index": true,
+  "circulars": {
+    "75f5c13e32e4d588": {
+      "id": "75f5c13e32e4d588",
+      "title": "Draft Seniority List of Scientific Assistants (SA) in IMD as on 01.10.2026",
+      "url": "https://metnet.imd.gov.in/phps/docs/Seniority_SA_Oct2026.pdf",
+      "date": "18/10/2026",
+      "section": "Admin-I",
+      "is_vip": true,
+      "vip_reasons": [
+        "seniority"
+      ],
+      "target_cadre": "Scientific Assistant (SA)",
+      "category": "Admin-I",
+      "summary_en": "Official notice: Draft Seniority List of Scientific Assistants (SA) in IMD as on 01.10.2026",
+      "summary_hi": "विभागीय सूचना: Draft Seniority List of Scientific Assistants (SA) in IMD as on 01.10.2026",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "9967f3f62e1f6557": {
+      "id": "9967f3f62e1f6557",
+      "title": "Promotion of Meteorologist Grade A (Met A) to Scientific Officer I (SO-I)",
+      "url": "https://metnet.imd.gov.in/phps/docs/Promotion_MetA_SO1_2026.pdf",
+      "date": "16/10/2026",
+      "section": "Establishment",
+      "is_vip": true,
+      "vip_reasons": [
+        "promotion"
+      ],
+      "target_cadre": "SO-I / Met A",
+      "category": "Establishment",
+      "summary_en": "Official notice: Promotion of Meteorologist Grade A (Met A) to Scientific Officer I (SO-I)",
+      "summary_hi": "विभागीय सूचना: Promotion of Meteorologist Grade A (Met A) to Scientific Officer I (SO-I)",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "c5e809598d736367": {
+      "id": "c5e809598d736367",
+      "title": "Transfer and Working Arrangement Order for Met-B / Meteorologist Gr B Officers",
+      "url": "https://metnet.imd.gov.in/phps/docs/Transfer_MetB_2026.pdf",
+      "date": "15/10/2026",
+      "section": "Admin-II",
+      "is_vip": true,
+      "vip_reasons": [
+        "transfer",
+        "working arrangement"
+      ],
+      "target_cadre": "Met B",
+      "category": "Admin-II",
+      "summary_en": "Official notice: Transfer and Working Arrangement Order for Met-B / Meteorologist Gr B Officers",
+      "summary_hi": "विभागीय सूचना: Transfer and Working Arrangement Order for Met-B / Meteorologist Gr B Officers",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "eec2702e11c39525": {
+      "id": "eec2702e11c39525",
+      "title": "Calling for Representations regarding Seniority of SO-I, SO-II and SO-III Officers",
+      "url": "https://metnet.imd.gov.in/phps/docs/Seniority_SO_2026.pdf",
+      "date": "14/10/2026",
+      "section": "Establishment",
+      "is_vip": true,
+      "vip_reasons": [
+        "seniority"
+      ],
+      "target_cadre": "SO-I / SO-II / SO-III",
+      "category": "Establishment",
+      "summary_en": "Official notice: Calling for Representations regarding Seniority of SO-I, SO-II and SO-III Officers",
+      "summary_hi": "विभागीय सूचना: Calling for Representations regarding Seniority of SO-I, SO-II and SO-III Officers",
+      "action_required": true,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "e92c48ded6b91046": {
+      "id": "e92c48ded6b91046",
+      "title": "Grant of Financial Upgradation under MACP Scheme to Scientist B and Scientist C",
+      "url": "https://metnet.imd.gov.in/phps/docs/MACP_ScB_ScC_2026.pdf",
+      "date": "12/10/2026",
+      "section": "Admin-II",
+      "is_vip": true,
+      "vip_reasons": [
+        "macp"
+      ],
+      "target_cadre": "Scientist B / Scientist C",
+      "category": "Admin-II",
+      "summary_en": "Official notice: Grant of Financial Upgradation under MACP Scheme to Scientist B and Scientist C",
+      "summary_hi": "विभागीय सूचना: Grant of Financial Upgradation under MACP Scheme to Scientist B and Scientist C",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "cdae71a883f95c6f": {
+      "id": "cdae71a883f95c6f",
+      "title": "Deputation and Selection Board Nominations for Scientist D, E and F",
+      "url": "https://metnet.imd.gov.in/phps/docs/Deputation_ScD_ScE_2026.pdf",
+      "date": "11/10/2026",
+      "section": "Personnel",
+      "is_vip": true,
+      "vip_reasons": [
+        "deputation"
+      ],
+      "target_cadre": "Scientist D",
+      "category": "Personnel",
+      "summary_en": "Official notice: Deputation and Selection Board Nominations for Scientist D, E and F",
+      "summary_hi": "विभागीय सूचना: Deputation and Selection Board Nominations for Scientist D, E and F",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "391b6056b238eef3": {
+      "id": "391b6056b238eef3",
+      "title": "Confirmation and Regularization Order for Clerks (UDC and LDC)",
+      "url": "https://metnet.imd.gov.in/phps/docs/Regularization_UDC_LDC_2026.pdf",
+      "date": "10/10/2026",
+      "section": "Ministerial Admin",
+      "is_vip": false,
+      "vip_reasons": [],
+      "target_cadre": "Clerk (UDC/LDC)",
+      "category": "Ministerial Admin",
+      "summary_en": "Official notice: Confirmation and Regularization Order for Clerks (UDC and LDC)",
+      "summary_hi": "विभागीय सूचना: Confirmation and Regularization Order for Clerks (UDC and LDC)",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "a0f1ac47f70d37c5": {
+      "id": "a0f1ac47f70d37c5",
+      "title": "Duty Roster and Overtime Allowance for MTS and Multi Tasking Staff",
+      "url": "https://metnet.imd.gov.in/phps/docs/Roster_MTS_2026.pdf",
+      "date": "08/10/2026",
+      "section": "General Admin",
+      "is_vip": true,
+      "vip_reasons": [
+        "roster"
+      ],
+      "target_cadre": "MTS / Attendant",
+      "category": "General Admin",
+      "summary_en": "Official notice: Duty Roster and Overtime Allowance for MTS and Multi Tasking Staff",
+      "summary_hi": "विभागीय सूचना: Duty Roster and Overtime Allowance for MTS and Multi Tasking Staff",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    },
+    "24ba8c8b4b982758": {
+      "id": "24ba8c8b4b982758",
+      "title": "General Administrative Directive regarding Observance of Vigilance Awareness Week",
+      "url": "https://metnet.imd.gov.in/phps/docs/Vigilance_Week_2026.pdf",
+      "date": "05/10/2026",
+      "section": "General Admin",
+      "is_vip": false,
+      "vip_reasons": [],
+      "target_cadre": "Administrative",
+      "category": "General Admin",
+      "summary_en": "Official notice: General Administrative Directive regarding Observance of Vigilance Awareness Week",
+      "summary_hi": "विभागीय सूचना: General Administrative Directive regarding Observance of Vigilance Awareness Week",
+      "action_required": false,
+      "source": "rules_fallback",
+      "indexed_at": "2026-10-22T21:11:38Z"
+    }
+  }
+}
